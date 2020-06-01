@@ -1,2 +1,3 @@
-# hello-world
-my first try on github
+hello everyone  
+6.1 happy
+fou all of u!
